@@ -6,7 +6,7 @@ public class Calculator {
      * 주의: 현재 코드는 버그가 있습니다.
      */
     public int add(int a, int b) {
-        // [함정] 학생들은 이 부분을 고쳐야 합니다.
-        return 0; 
+        int temp=a+b;
+        return temp; 
     }
 }
