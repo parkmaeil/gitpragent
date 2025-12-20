@@ -6,7 +6,7 @@ public class Calculator {
      * 주의: 현재 코드는 버그가 있습니다.
      */
 666     ㄴ, 
-        int temp=a+b;
+        int =a+b;ㄱㄱㅈㄷ
         return temp; 
     }
 }
